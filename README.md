@@ -1,7 +1,8 @@
-Capture Moments - Photography Portfolio Website
+**Capture Moments - Photography Portfolio Website**
+
 A professional multipage photography portfolio website built with HTML5, CSS3, and JavaScript. This responsive website showcases photography services with an elegant design and user-friendly interface.
 
-Features
+**Features**
 Responsive Design: Fully responsive layout that works on all device sizes
 
 Multipage Structure: Five distinct pages with dedicated content
@@ -12,24 +13,22 @@ Modern Design: Clean, professional aesthetics with thoughtful animations
 
 SEO-Friendly: Semantic HTML structure for better search engine visibility
 
-Pages Included
+**Pages Included**
 Home (index.html) - Landing page with featured work and services preview
 
 About (about.html) - Photographer bio and experience timeline
 
 Gallery (gallery.html) - Filterable portfolio with multiple categories
 
-Services (services.html) - Detailed service offerings and pricing
-
 Contact (contact.html) - Contact form, FAQ, and location map
 
-File Structure
+**File Structure**
 text
 photography-portfolio/
 ├── index.html
 ├── about.html
 ├── gallery.html
-├── services.html
+├── Images folder
 ├── contact.html
 ├── style.css
 ├── script.js
@@ -47,11 +46,11 @@ Google Fonts: Typography (implicitly through system fonts)
 
 Google Maps: Embedded location map
 
-Setup Instructions
-Download Files: Save all provided HTML, CSS, and JS files in the same directory
-
-Open in Browser: Double-click index.html to open the website in your default browser
+**Setup Instructions**
+Download Files (Clone or fork the repo): Save all provided HTML, CSS, and JS files in the same directory
 
 Local Development: For extended development, use a code editor like VS Code and a local server
 
-Find the live site here; https://web-dev-final.netlify.app/
+Open in Browser: Double-click index.html to open the website in your default browser
+
+Find the live site here; **https://web-dev-final.netlify.app/**
